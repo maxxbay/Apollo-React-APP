@@ -8,7 +8,8 @@
     "url": "https://github.com/maxxbay/Apollo-React-APP"
   },
   "scripts": {
-    "dev": "nodemon index.js --ignore client"
+    "dev": "nodemon index.js --ignore client",
+    "prod": "webpack --mode production"
   },
   "author": "",
   "license": "ISC",
