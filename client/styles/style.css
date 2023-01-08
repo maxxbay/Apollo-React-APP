@@ -1,7 +1,13 @@
+
+
+
 .collection-item {
   display: flex;
   justify-content: space-between;
+  background-color: blue;
+
 }
+
 
 .material-icons {
   cursor: pointer;

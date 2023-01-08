@@ -42,6 +42,7 @@
     "react-dom": "^16.14.0",
     "react-router": "^3.2.6",
     "style-loader": "^0.13.1",
+    "styled-components": "^5.3.6",
     "webpack": "^5.75.0",
     "webpack-dev-middleware": "^6.0.1"
   },
