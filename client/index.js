@@ -14,7 +14,7 @@ import SongCreate from "./components/SongCreate";
 import SongDetail from "./components/SongDetail";
 
 const client = new ApolloClient({
-  uri: "http://localhost:4000/graphql?",
+  uri: "https://maxxbay.github.io/Apollo-React-APP/graphql?",
   cache: new InMemoryCache(),
   dataIdFromObject: (o) => o.id,
 });
