@@ -10,7 +10,8 @@
   "scripts": {
     "dev": "nodemon index.js --ignore client",
     "prod": "webpack --mode production",
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js",
+        "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
