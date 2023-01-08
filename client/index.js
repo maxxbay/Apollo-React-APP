@@ -14,7 +14,7 @@ import SongCreate from "./components/SongCreate";
 import SongDetail from "./components/SongDetail";
 
 const client = new ApolloClient({
-  uri: "http://https://maxxbay.github.io/Apollo-React-APP/",
+  uri: "https://github.com/maxxbay/Apollo-React-APP",
   cache: new InMemoryCache(),
   dataIdFromObject: (o) => o.id,
 });
