@@ -5,7 +5,7 @@ module.exports = {
   entry: "./client/index.js",
   mode: "development",
   output: {
-    path: "/",
+    path: "/GitHub/Apollo-React-APP",
     filename: "bundle.js",
   },
   module: {
